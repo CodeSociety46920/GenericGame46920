@@ -1,0 +1,25 @@
+Confirmed
+//Text based
+//Branches of Story Line
+//Each club member is an avatar with a different storyline
+//Secret character unlocked when all characters are unlocked
+//Menu is as follows: 
+//Computer related, dark web, hacking, etc.
+//EASTER EGGS
+"Welcome to [TITLE]:
+
+Choose a Character:
+
+mackenzie = false
+darla = true
+karoline = false
+aiden = false
+
+etc...."
+
+Suggested
+//Mini-Branches that merge shortly into your main branch again.
+
+
+
+We ARE avatars with different storylines 
